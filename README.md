@@ -1,5 +1,5 @@
 # Path to the README.md file
-README_FILE="README.md"
+- README_File = [README.md](https://github.com/RayhanLup1n/hand-sign-model/blob/main/README.md)
 
 # Create or overwrite the README.md file with only the necessary content
 cat <<EOT > $README_FILE
