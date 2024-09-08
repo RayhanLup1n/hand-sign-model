@@ -108,7 +108,7 @@ pip install -r requirements.txt
 The model achieved high accuracy on the test dataset, with loss and accuracy curves showing steady improvement during training. Misclassified gestures are visualized using a confusion matrix, providing insights for further improvements.
 
 ## Acknowledgments
-The dataset for this project is provided by [Google Drive](https://drive.google.com). Special thanks to the contributors who made this dataset publicly available.
+The dataset for this project is provided by [Kaggle](https://www.kaggle.com/datasets/ash2703/handsignimages). Special thanks to the contributors who made this dataset publicly available.
 
 ## Contributing
 I recognize that this model has the potential for further development and improvement. I invite anyone interested to fork this repository, experiment with the model, and contribute to its progress. Whether through optimizing the architecture, improving accuracy, or adding new features, your contributions are greatly appreciated. Feel free to share your ideas and improvements via pull requests or discussions. Together, we can continue to enhance this project for the benefit of the community.
